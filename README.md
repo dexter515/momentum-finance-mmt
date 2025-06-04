@@ -31,7 +31,7 @@ npm install
 3. Configure environment variables:
    - Change file `env.example` to `.env`
 ```bash
-     cp env.example .env`
+     cp env.example .env
 ```
    - Edit `.env` file in the root directory
    - Add your Sui wallet mnemonic:
