@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@mmt-finance/clmm-sdk": "^1.1.6",
+    "@mysten/sui": "^1.28.2",
+    "bn.js": "^5.2.2",
+    "chalk": "^5.4.1",
+    "crypto": "^1.0.1",
+    "decimal.js": "^10.5.0",
+    "dotenv": "^16.5.0",
+  },
+  "type": "module"
+}
